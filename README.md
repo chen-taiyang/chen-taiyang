@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ctaiyang&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chen-taiyang&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 <h2>  Hey 👋, I'm <a href="http://taiyang.space" target="_blank">Tai Yang</a>! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
 <p>- 👨‍💻 The little rookie in the direction of network security </p>
 <p>- 💪 Proficient in writing "Hello World" in C and Python </p>
